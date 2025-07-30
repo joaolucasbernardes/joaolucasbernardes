@@ -27,6 +27,22 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/joaolucasbernardes/joaolucasbernardes/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## ⭐ GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/joaolucasbernardes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolucasbernardes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasbernardes&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
 ## 🛠️ Tecnologias que Utilizo
 
 <div align="center">
@@ -54,18 +70,5 @@
 
 ---
 
-## ⭐ GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/joaolucasbernardes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolucasbernardes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasbernardes&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaolucasbernardes/joaolucasbernardes/output/snake.svg" alt="Snake animation" />
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=120&section=footer" />
