@@ -68,7 +68,4 @@
 <img align="center" alt="Postman" height="40" width="50" src="https://skillicons.dev/icons?i=postman">
 </div>
 
----
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=120&section=footer" />
