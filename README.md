@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3384,100:1A0A2D&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70296e,50:90478d,100:b166ad&height=150&section=header" />
 
 <div align="center">
   <h1>Olá, eu sou o João Lucas Bernardes! 👋</h1>
@@ -70,4 +70,4 @@
 
 ###
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3384,100:1A0A2D&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70296e,50:90478d,100:b166ad&height=150&section=footer" />
