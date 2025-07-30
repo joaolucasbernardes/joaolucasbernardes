@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3384,100:1A0A2D&height=120&section=header"/>
 
 <div align="center">
   <h1>Olá, eu sou o João Lucas Bernardes! 👋</h1>
@@ -68,4 +68,6 @@
 <img align="center" alt="Postman" height="40" width="50" src="https://skillicons.dev/icons?i=postman">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=120&section=footer" />
+###
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3384,100:1A0A2D&height=120&section=footer"/>
