@@ -46,6 +46,7 @@
 
 <div align="center">
   <h3>Back-end</h3>
+  <img align="center" alt="Kotlin" height="40" width="50" src="https://skillicons.dev/icons?i=kotlin">
   <img align="center" alt="Java" height="40" width="50" src="https://skillicons.dev/icons?i=java">
   <img align="center" alt="Spring" height="40" width="50" src="https://skillicons.dev/icons?i=spring">
   <img align="center" alt="Hibernate" height="40" width="50" src="https://skillicons.dev/icons?i=hibernate">
