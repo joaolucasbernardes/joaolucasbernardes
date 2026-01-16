@@ -36,9 +36,7 @@
 ## ⭐ GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/joaolucasbernardes">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasbernardes&layout=compact&langs_count=7&theme=tokyonight" alt="Meus Top Linguagens" />
-  </a>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaolucasbernardes&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 ---
