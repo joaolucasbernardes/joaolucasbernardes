@@ -12,7 +12,8 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=joaolucasbernardes.joaolucasbernardes&style=flat-square&color=00b386" alt="Contador de visitas" />
 
-<br><br>
+<br>
+<br>
 
 <!-- Badges · dark com logos em verde neon (identidade terminal) -->
 <a href="mailto:joaolucasbernardes@gmail.com" title="Gmail">
@@ -29,7 +30,8 @@
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
-<br><br>
+<br>
+<br>
 
 <p align="center">
   Construo soluções <strong>back-end</strong> pensando em robustez, escalabilidade e clareza de arquitetura.<br>
@@ -55,7 +57,8 @@
 
 <h2 align="center">🛠️ Tecnologias</h2>
 
-<br><br>
+<br>
+<br>
 
 <h3 align="center">Back-end</h3>
 <p align="center">
@@ -76,7 +79,8 @@
 
 <h2 align="center">⭐ GitHub em números</h2>
 
-<br><br>
+<br>
+<br>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaolucasbernardes&layout=compact&langs_count=8&hide_border=true&title_color=00FF9C&text_color=C9D1D9&bg_color=0D1117" alt="Linguagens mais usadas" />
