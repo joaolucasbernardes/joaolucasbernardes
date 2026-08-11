@@ -45,9 +45,8 @@
       🚀 &nbsp;Foco em <strong>back-end</strong> com Java e o ecossistema Spring<br><br>
       💡 &nbsp;Estudando arquitetura de software, sistemas distribuídos e segurança
     </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <br>
-      🎯 &nbsp;Em busca de uma vaga como <strong>Desenvolvedor Java</strong><br><br>
       🧩 &nbsp;Aprendo melhor construindo projetos de ponta a ponta
     </td>
   </tr>
