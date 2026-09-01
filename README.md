@@ -18,8 +18,6 @@
 <!-- Badges · dark com logos em verde neon (identidade terminal) -->
 <a href="mailto:joaolucasbernardes@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/joaolucasbernardes" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
 <a href="https://github.com/joaolucasbernardes" title="GitHub">
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" /></a>
 
